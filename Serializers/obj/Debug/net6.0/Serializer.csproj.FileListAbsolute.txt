@@ -1,0 +1,12 @@
+D:\2\c#\Приложения\MyLib\Serializers\bin\Debug\net6.0\Serializer.deps.json
+D:\2\c#\Приложения\MyLib\Serializers\bin\Debug\net6.0\Serializer.dll
+D:\2\c#\Приложения\MyLib\Serializers\bin\Debug\net6.0\Serializer.pdb
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.csproj.AssemblyReference.cache
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.AssemblyInfoInputs.cache
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.AssemblyInfo.cs
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.csproj.CoreCompileInputs.cache
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.dll
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\refint\Serializer.dll
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\Serializer.pdb
+D:\2\c#\Приложения\MyLib\Serializers\obj\Debug\net6.0\ref\Serializer.dll
